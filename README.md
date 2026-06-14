@@ -19,3 +19,18 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-magalh%C3%A3es-bocch-296349415/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMiguelMBocchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguelMBocchi&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoMiguelMBocchi&theme=tokyonight" />
+
+</div>
+
